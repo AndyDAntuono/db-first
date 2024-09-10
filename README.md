@@ -10,3 +10,7 @@ Oggi non avete un numero minimo di push vista l'entità dell'esercizio.
 
 Anziche usare lo strumento indicatoci da Fabrizio, ho preferito usare un programma simil Windows Word (Open Office Writer), ho poi 
 eseguito uno scrennshot, salvando quest'ultimo come file jpeg. 
+
+- Avendo letto male la cosenga, ho modificato il file originale e l'ho "screenshottato". Ho poi sostituito l'immagine precedente con quella
+  attuale. Forse quello che sto per è superfluo ma avendo avuto dei problemi in casa non sono riuscito ad aprire la repo entro un tempo 
+  decente.
